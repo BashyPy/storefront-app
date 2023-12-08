@@ -12,6 +12,7 @@ Open source ecommerce mobile app for on-demand orders. Setup ecommerce marketpla
   <a href="https://www.npmjs.com/package/@fleetbase/storefront">
     <img src="https://img.shields.io/npm/dw/@fleetbase/storefront" alt="Downloads/week" />
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2FBashyPy%2Fstorefront-app?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2FBashyPy%2Fstorefront-app.svg?type=shield"/></a>
   <a href="https://bundlephobia.com/package/@fleetbase/storefront@1.0.3">
     <img src="https://img.shields.io/bundlephobia/min/@fleetbase/storefront" alt="Bundle Size" />
   </a>
@@ -27,6 +28,9 @@ Open source ecommerce mobile app for on-demand orders. Setup ecommerce marketpla
 	<img src="https://user-images.githubusercontent.com/816371/131815221-b704d013-cc5d-41c3-9fde-36ca7af21a57.png" width="220" height="416" />
 	<img src="https://user-images.githubusercontent.com/816371/131815186-b641a613-4aba-4064-ba28-4e610aba56b4.png" width="220" height="416" />
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FBashyPy%2Fstorefront-app.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FBashyPy%2Fstorefront-app?ref=badge_large)
 
 ## Table of Contents
 
